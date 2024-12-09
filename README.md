@@ -1,6 +1,6 @@
 # Car Break-In Mitigation
 
-This project leverages cutting-edge AI and data integration to address the prevalent issue of car break-ins in San Francisco.
+This project leverages AI and data integration to address the prevalent issue of car break-ins in San Francisco.
 
 ## Key Features
 
