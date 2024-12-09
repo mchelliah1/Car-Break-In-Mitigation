@@ -19,6 +19,3 @@ Employs refined prompt techniques and historical crime trends to deliver accurat
 ---
 
 This multifunctional tool empowers users with critical insights and proactive measures to improve urban safety.
-
-## Contributors
-- **Matthew Chelliah**
